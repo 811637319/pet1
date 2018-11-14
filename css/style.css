@@ -10,9 +10,6 @@
 /*common*/
 .suspension a:hover{color:#fc8080;text-decoration:none;}
 .suspension a:-webkit-any-link{text-decoration:none;}
-.container{margin:0 auto;padding:0;}
-.container:after{content:"";display:block;clear:both;}
-.clearfix:after{content:"";display:block;clear:both;}
 .fl{float:left;}
 .fr{float:right;}
 .tl{text-align:left;}
