@@ -1,0 +1,2 @@
+﻿文件下载网址  =>  文件保存路径
+http://www.meweidea.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBYdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--60b8c8e2f604da571d8c469357bcbe42464614d4/loader.gif  =>  C:\Users\Administrator\Documents\WeChat Files\Boyabo666\Files\www.meweidea.com\images\loader.gif
