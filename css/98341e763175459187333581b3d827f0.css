@@ -897,4 +897,7 @@ footer{
     padding: 0 30px;
   }  
 }
+.owl-item img{
+    width: 100%;
+}
 
